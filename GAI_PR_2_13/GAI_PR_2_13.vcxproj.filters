@@ -15,7 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="GAI_PR_2_13.cpp">
+    <ClCompile Include="Nariana_2_21.cpp">
       <Filter>Исходные файлы</Filter>
     </ClCompile>
   </ItemGroup>
